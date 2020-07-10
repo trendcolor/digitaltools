@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Hardware
 
-1. [Descrizione](link){:target="_blank"}
+1. [Descrizione](link)
 2. [Descrizione](link)
 3. [Descrizione](link)
 4.
@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 #### Ricerche per software open source
 
-1. [Software per calcolo preventivi da goodfirms.co](https://www.goodfirms.co/blog/the-top-free-open-source-construction-estimating-software)
+1. [Software per calcolo preventivi da goodfirms.co](https://www.goodfirms.co/blog/the-top-free-open-source-construction-estimating-software){:target="_blank"}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -34,7 +34,7 @@ Ricerche su possibili Prodotti
 
 1. [Tavolino da lettura per divano spostabile 49$](https://it.aliexpress.com/item/4000416129221.html?spm=a2g0o.productlist.0.0.73da6210T3r7XF&algo_pvid=dc72e413-8fa7-4293-b399-6a5bd384122c&algo_expid=dc72e413-8fa7-4293-b399-6a5bd384122c-27&btsid=0ab6f82315944022595121907e7b7e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
   2. [Tavolino da lettura minimalista 42$](https://it.aliexpress.com/item/4000618225235.html?spm=a2g0o.productlist.0.0.73da6210T3r7XF&algo_pvid=dc72e413-8fa7-4293-b399-6a5bd384122c&algo_expid=dc72e413-8fa7-4293-b399-6a5bd384122c-48&btsid=0ab6f82315944022595121907e7b7e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
-2. 
+2.
 
 #### Idee prodotto bicchieri taglieri o altri utensili decorati
 
