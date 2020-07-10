@@ -1,18 +1,33 @@
-## Welcome to GitHub Pages
+## Introduzione
 
 You can use the [editor on GitHub](https://github.com/trendcolor/digitaltools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Strumenti informatici
+
+### Hardware
+
+1. [Descrizione](link){:target="_blank"}
+2. [Descrizione](link)
+3. [Descrizione](link)
+4.
+
+### Software
+
+#### Ricerche per software open source
+
+1. [Software per calcolo preventivi da goodfirms.co](https://www.goodfirms.co/blog/the-top-free-open-source-construction-estimating-software)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+## Strumenti attrezzi hi-tech per imbiancatura
+
+### Header 2
+
 ### Header 3
 
 - Bulleted
